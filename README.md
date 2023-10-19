@@ -1,0 +1,2 @@
+# qshow6
+Sissejuhatus_infotehnoloogiasse_kodutöö_leht
